@@ -1,12 +1,10 @@
 # Construct_Week_project1
 
 # About Project
+<h1><a href="https://unit-2-construct-week-project-nordstrom-rack.netlify.app/">NordStrom Rack </a></h1>
+Nordstrom Rack is an e-commerce platform that sells clothes, shoes and accessories.
 
-It is Collaborative project which is build by 6 members .
-
-Executed with in weeek.
-
-It is E-Com Website 
+This project was collaborately clone by a team of 6 developers and executed within 5 days.
 
 # Tech Stack
 
